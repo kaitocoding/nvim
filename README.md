@@ -18,6 +18,11 @@ rm -rf ~/.config/nvim/.git
 ## Neovim Essential Commands
 A quick reference guide to essential Neovim commands for file management, navigation, editing, searching, and window management.
 
+-- To open sidebar
+| Command        | Description              |
+|----------------|--------------------------|
+| `ctrl + n`     | Open a sidebar           |
+
 -- File management
 | Command        | Description              |
 |----------------|--------------------------|
